@@ -1,7 +1,7 @@
 # AP-Govt-Help
 ## Helps AP Government Students with their studies
 
-###### *Currently Work In Progress*
+*Currently Work In Progress*
 
 **Link to Website:** https://eli15976.github.io/AP-Govt-Help/
 
