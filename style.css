@@ -40,6 +40,17 @@ body{
 	color:brown;
 }
 
+#backbutton{
+	background:white;
+	border-radius:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:15px;
+	padding-right:15px;
+	width:90px;
+	font-size:20px;
+}
+
 .description{
 	font-family:Arial;
 	font-size:17px;
