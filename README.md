@@ -7,7 +7,7 @@ This website was created for the purpose of helping future AP Government student
 
 
 Subjects listed are:
-`
+```
 Bill Of Rights
 Constitution
-`
+```
