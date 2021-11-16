@@ -16,11 +16,41 @@ body{
 	align-items:center;
 }
 
+#head{
+	flex:1;
+}
+
+#secondaryhead{
+	flex:1;
+}
+
+
 #secondaryhead{
 	font-size:30px;
 }
 
 nav a{
-	font-family:"Brush Script MT";
+	font-family:'Brush Script MT', cursive;
+	text-decoration:none;
 	font-size:30px;
+}
+
+nav a:hover{
+	text-decoration:underline;
+}
+
+nav div{
+	background-color:#FFFFFFDD;
+	margin:25px;
+	border:2px solid #999999;
+	border-radius:15px;
+	padding:10px;
+	width:170px;
+	height:45px;
+	transition:0.3s ease-in-out;
+}
+
+nav div:hover{
+  width:1000px;
+	height:150px;
 }
