@@ -36,14 +36,13 @@ body{
 	padding:10px;
 	text-align:center;
 	font-family:Arial;
-	text-size:15px;
 	font-weight:bold;
 	color:brown;
 }
 
 .description{
 	font-family:Arial;
-	text-size:15px;
+	font-size:17px;
 	font-weight:bold;
 	color:brown;
 }
@@ -51,7 +50,6 @@ body{
 nav a{
 	font-family:'Brush Script MT', cursive;
 	text-decoration:none;
-	font-size:30px;
 }
 
 nav a:hover{
