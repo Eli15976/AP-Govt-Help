@@ -1,5 +1,5 @@
 body{
-	background-image:url(Assets/Images/wood.png);
+	background-image:url(../Assets/Images/wood.png);
 }
 
 #banner{
@@ -71,19 +71,17 @@ nav a:hover{
 	text-decoration:underline;
 }
 
+nav div h3{
+	font-family:cursive;
+	font-size:25px;
+	text-decoration:underline;
+	text-align:center;
+	color:purple;
+}
+
 nav div{
 	background-color:#FFFFFFDD;
 	margin:25px;
 	border:2px solid #999999;
 	border-radius:15px;
-	padding:10px;
-	width:170px;
-	height:45px;
-	overflow:hidden;
-	transition:0.3s ease-in-out;
-}
-
-nav div:hover{
-  width:1000px;
-	height:150px;
 }
