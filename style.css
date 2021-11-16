@@ -1,3 +1,26 @@
+body{
+	background-image:url(Assets/Images/wood.png);
+}
+
 #banner{
 	background-color:brown;
+	border:6px solid #000000;
+	color:white;
+	text-align:center;
+	font-family:Arial;
+}
+
+#topStuff{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+#secondaryhead{
+	font-size:30px;
+}
+
+nav a{
+	font-family:"Brush Script MT";
+	font-size:30px;
 }
