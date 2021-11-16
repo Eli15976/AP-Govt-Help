@@ -29,6 +29,25 @@ body{
 	font-size:30px;
 }
 
+#headCaption{
+	background-color:#AADD8899;
+	border:2px solid #999999;
+	border-radius:15px;
+	padding:10px;
+	text-align:center;
+	font-family:Arial;
+	text-size:15px;
+	font-weight:bold;
+	color:brown;
+}
+
+.description{
+	font-family:Arial;
+	text-size:15px;
+	font-weight:bold;
+	color:brown;
+}
+
 nav a{
 	font-family:'Brush Script MT', cursive;
 	text-decoration:none;
@@ -47,6 +66,7 @@ nav div{
 	padding:10px;
 	width:170px;
 	height:45px;
+	overflow:hidden;
 	transition:0.3s ease-in-out;
 }
 
