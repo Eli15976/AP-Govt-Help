@@ -6,5 +6,7 @@
 This website was created for the purpose of helping future AP Government students. I personally have suffered through AP Government, and it sucked. So I'm making this user friendly website for people to use as research.
 
 Subjects listed are:
-> Bill Of Rights
-> Constitution
+```
+Bill Of Rights
+Constitution
+```
