@@ -21,27 +21,8 @@ body{
 }
 
 #secondaryhead{
-	flex:1;
-}
-
-
-#secondaryhead{
 	font-size:30px;
-}
-
-#headCaption{
-	background-color:#AADD8899;
-	margin-top:10px;
-	margin-left:auto;
-	margin-right:auto;
-	margin-bottom:auto;
-	border:2px solid #999999;
-	border-radius:15px;
-	padding:10px;
-	text-align:center;
-	font-family:Arial;
-	font-weight:bold;
-	color:brown;
+	flex:1;
 }
 
 #backbutton{
@@ -79,7 +60,7 @@ nav a:hover{
 	text-decoration:underline;
 }
 
-nav div h3{
+h3{
 	font-family:cursive;
 	font-size:25px;
 	text-decoration:underline;

@@ -21,12 +21,8 @@ body{
 }
 
 #secondaryhead{
-	flex:1;
-}
-
-
-#secondaryhead{
 	font-size:30px;
+	flex:1;
 }
 
 #headCaption{
