@@ -91,3 +91,22 @@ nav div:hover{
   width:1000px;
 	height:150px;
 }
+
+
+::-webkit-scrollbar{
+	width:20px;
+}
+
+::-webkit-scrollbar-thumb{
+	border-radius:5px;
+}
+
+
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: gray;
+	border-radius: 10px;
+}
