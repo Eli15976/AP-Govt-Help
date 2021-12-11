@@ -34,28 +34,28 @@
     <loc>https://eli15976.github.io/AP-Govt-Help/billofrights/amendment2.html</loc>
     <priority>0.64</priority>
   </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/cases/MappvsOhio.html</loc>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/cases/GideonvsWainwright.html</loc>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/cases/EnglevsVitale.html</loc>
-    <priority>0.64</priority>
-  </url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/cases/EnglevsVitale.html</loc>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/cases/GideonvsWainwright.html</loc>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/cases/MappvsOhio.html</loc>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/cases/NYTimesvsUS.html</loc>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/cases/SchenckvsUS.html</loc>
+		<priority>0.64</priority>
+	</url>
   <url>
     <loc>https://eli15976.github.io/AP-Govt-Help/cases/WisconsinvsYoder.html</loc>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/cases/SchenckvsUS.html</loc>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/cases/NYTimesvsUS.html</loc>
     <priority>0.64</priority>
   </url>
 
