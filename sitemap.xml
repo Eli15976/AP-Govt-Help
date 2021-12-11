@@ -6,34 +6,34 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/</loc>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/index.html</loc>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/billofrights.html</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/constitution.html</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/cases.html</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/billofrights/amendment1.html</loc>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/billofrights/amendment2.html</loc>
-    <priority>0.64</priority>
-  </url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/</loc>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/index.html</loc>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/billofrights.html</loc>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/constitution.html</loc>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/cases.html</loc>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/billofrights/amendment1.html</loc>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/billofrights/amendment2.html</loc>
+		<priority>0.64</priority>
+	</url>
 	<url>
 		<loc>https://eli15976.github.io/AP-Govt-Help/cases/EnglevsVitale.html</loc>
 		<priority>0.64</priority>
@@ -55,13 +55,17 @@
 		<priority>0.64</priority>
 	</url>
 	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/cases/PlessyvsFerguson.html</loc>
+		<priority>0.64</priority>
+	</url>
+	<url>
 		<loc>https://eli15976.github.io/AP-Govt-Help/cases/SchenckvsUS.html</loc>
 		<priority>0.64</priority>
 	</url>
-  <url>
-    <loc>https://eli15976.github.io/AP-Govt-Help/cases/WisconsinvsYoder.html</loc>
-    <priority>0.64</priority>
-  </url>
+	<url>
+		<loc>https://eli15976.github.io/AP-Govt-Help/cases/WisconsinvsYoder.html</loc>
+		<priority>0.64</priority>
+	</url>
 
 
 </urlset>
